@@ -1,0 +1,62 @@
+body{
+    font-family: Agency Fb;
+   // background-color: #002B36;
+}
+.title
+{
+    background-color: red;
+    width: 100%;
+    font-size: 400%;
+    color: white;
+}
+.in{
+    width: 49.5%;
+    margin-left: 0%;
+    height: 545px;
+    border-style: solid;
+    border-color: black;
+    border-width:2px;
+    font-family: Agency Fb;
+    font-size: 25px;
+}
+.out{
+    width: 49.5%;
+    float: right;
+    margin-top: -557px;
+    height: 549px;
+    border-style: solid;
+    border-color: black;
+    border-width:2px;
+}
+#light
+{
+  width: 50px;
+  height: 50px;
+  float: left;
+  margin-left: 5%;
+  background-color: white;
+  border-style: solid;
+  border-color:black;
+  margin-top: -105px;
+}
+#dark{
+  width: 50px;
+  height: 50px;
+  float: right;
+  background-color: #002B36;
+  border-style: solid;
+  border-color:white;
+  margin-top: -124px;
+  margin-right: 5%;
+}
+#container{
+  width: 100%;
+  display: inline-block;
+  //background-color: red;
+  height: 600px;
+}
+footer{
+  background-color: #001F27;
+  font-size: 20px;
+  color:white;
+}
